@@ -2,7 +2,7 @@
 //  HomeTableViewHeader.swift
 //  AluraViagens
 //
-//  Created by Ândriu Felipe Coelho on 13/03/21.
+//  Created by Maria Clara Dias on 15/05/25.
 //
 
 import UIKit

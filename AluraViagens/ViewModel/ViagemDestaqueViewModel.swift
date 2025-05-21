@@ -12,7 +12,6 @@ class ViagemDestaqueViewModel: ViagemViewModel {
     var tituloSessao: String {
         return "Destaques"
     }
-    
     var tipo: ViagemViewModelType {
         return .destaques
     }
