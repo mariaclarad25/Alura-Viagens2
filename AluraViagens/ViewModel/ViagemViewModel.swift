@@ -2,7 +2,7 @@
 //  ViagemViewModel.swift
 //  AluraViagens
 //
-//  Created by Ândriu Felipe Coelho on 30/05/21.
+//  Created by Maria Clara Dias on 30/05/21.
 //
 
 import Foundation
